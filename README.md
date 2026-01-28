@@ -1,6 +1,6 @@
 # 📱 Smartphone Price Analysis – Exploratory Data Analysis (EDA) Project
 
-This project explores how various smartphone features — such as RAM, storage, processor speed, 5G support, fast charging, and brand — influence pricing in the Indian smartphone market.
+This project explores how various smartphone features such as RAM, storage, processor speed, 5G support, fast charging, and brand influence pricing in the Indian smartphone market.
 
 Using Python and visual analytics, I performed a detailed exploratory data analysis (EDA) to identify price trends, feature impact, and product segmentation across brands.
 
@@ -65,6 +65,7 @@ Using Python and visual analytics, I performed a detailed exploratory data analy
 
 - **Python**: pandas, matplotlib, seaborn
 - **Jupyter Notebook**
+- **Machine Learning
 
 
 ---
