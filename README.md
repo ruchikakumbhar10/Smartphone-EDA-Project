@@ -63,9 +63,9 @@ Using Python and visual analytics, I performed a detailed exploratory data analy
 
 ## 🛠️ Tools Used
 
-- **Python**: pandas, matplotlib, seaborn
+- **Python**: Numpy, Pandas, Matplotlib, Seaborn
 - **Jupyter Notebook**
-- **Machine Learning
+- **Machine Learning**
 
 
 ---
