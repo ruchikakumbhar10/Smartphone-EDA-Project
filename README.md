@@ -69,7 +69,8 @@ Using Python and visual analytics, I performed a detailed exploratory data analy
 
 
 ---
-
+## Author
+Ruchika Kumbhar Data Analyst and Data Scientist
 
 
 
