@@ -1,6 +1,4 @@
 # 📱 Smartphone Price Analysis – Exploratory Data Analysis (EDA) Project
-
-## 📝 One-Line Summary
 An in-depth exploratory data analysis of the Indian smartphone market to identify key features influencing price and brand positioning.
 
 ---
