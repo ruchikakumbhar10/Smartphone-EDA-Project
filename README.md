@@ -7,7 +7,7 @@ An in-depth exploratory Data analysis of the Indian Smartphone Market to identif
 
 This project explores how smartphone features such as RAM, Storage, Processor Speed, 5G support, Fast charging, and Brand influence pricing in the Indian Smartphone Market.
 
-Using Python and visual analytics, a detailed Exploratory Data Analysis (EDA) was performed to identify price trends, feature impact, and product segmentation across brands.
+Using Python and visual analytics, a detailed Exploratory Data Analysis (EDA) was performed to Identify price trends, feature impact, and Product segmentation across brands.
 
 The goal was to understand which technical specifications most strongly affect smartphone pricing and how brands strategically position their devices.
 
@@ -56,7 +56,7 @@ The dataset contains detailed specifications of smartphones available in India.
 
 ### Key Columns Include:
 
-- price  
+- Price  
 - ram_capacity  
 - internal_memory  
 - processor_speed  
