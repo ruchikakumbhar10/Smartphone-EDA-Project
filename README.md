@@ -194,7 +194,7 @@ Python | SQL | Power BI | Machine Learning
 
 ## ⭐ Ending Note
 
-This project demonstrates the power of exploratory data analysis in uncovering hidden patterns within real-world datasets. By combining data cleaning, visualization, and structured reasoning, meaningful business insights can be generated to support smarter product and pricing decisions.
+This project demonstrates the power of Exploratory Data Analysis in uncovering hidden patterns within real-world datasets. By combining Data Cleaning, Visualization, and Structured Reasoning, Meaningful Business Insights can be generated to support smarter product and pricing decisions.
 
 If you found this project useful, feel free to star the repository!
 
