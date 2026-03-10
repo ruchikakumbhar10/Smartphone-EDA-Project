@@ -123,7 +123,7 @@ Higher processor speed correlates with increased smartphone pricing.
 Devices offering 5G and fast charging show higher median prices, positioning them as future-ready devices.
 
 ### 📷 Camera and Battery Have Limited Pricing Impact
-Battery capacity and camera megapixels do not significantly increase price. Many budget devices offer competitive specs in these areas.
+Battery capacity and Camera megapixels do not significantly increase price. Many budget devices offer competitive specs in these areas.
 
 ### 🏷 Brand Distribution
 Xiaomi, Samsung, and Realme dominate the dataset, indicating strong competition in the mid-range segment.
